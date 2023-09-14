@@ -78,9 +78,14 @@
 <br>  
 <hr>
 
+<div style="display: flex;justify-content: space-around;" align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=WeslleyIvis&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" alt="github stats">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleyIvis&layout=compact&hide_border=true&title_color=000" alt="clebio languages">
+</div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WeslleyIvis&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WeslleyIvis&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **WeslleyIvis/WeslleyIvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
