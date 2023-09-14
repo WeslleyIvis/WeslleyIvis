@@ -27,7 +27,7 @@
 
 > <p>It is possible to generate all Pokémon from each season.</p>
 
-> <p>Skills: JS Vaniila, CSS, HTML, SPA, API, PokeAPI</p>
+> <p>Skills: JS Vaniila, CSS, HTML, SPA, Rest API, PokeAPI</p>
 
 <br>
 <hr>
@@ -39,7 +39,7 @@
 </a>
 > <p>This application downloads music and videos from YouTube</p>
 
-> <p>Skills: NodeJS, Jquery, API, Handlebars</p>
+> <p>Skills: NodeJS, Jquery, Rest API, Handlebars</p>
 
 <br> 
 <hr>
@@ -74,7 +74,7 @@
 </a>
 > <p>A delivery service, also known as a delivery service, is a system that allows consumers to order and receive products or services directly to their homes or locations of choice, rather than physically visiting a store, restaurant or service provider. This business model offers customers convenience, saves time, and is often a convenient option for meeting shopping or dining needs.</p>
 
-> <p>Skills: JavaScript, CSS, TypeScript, React, NodeJS, Express, MongoDB (Atlas), Mongoose</p>
+> <p>Skills: JavaScript, CSS, TypeScript, React, NodeJS, Express, MongoDB (Atlas), Mongoose, Rest API</p>
 <br>  
 <hr>
 
