@@ -46,7 +46,7 @@
 
 <strong><a href="https://github.com/WeslleyIvis/Phaser_Game">Prototype Game</a></strong>
 <br>
-<a href="https://github.com/WeslleyIvis/Phaser_Game">
+<a tagert="blank" href="https://weslleyivis.github.io/Load_Phaser/">
 	<img src="images/phaserGame.png" alt="drawing" align="right" width="25%"/>
 </a>
 > <p>This game was made using the "Phaser" engine with the purpose of being a prototype for building a larger game.</p>
