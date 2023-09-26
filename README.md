@@ -56,7 +56,7 @@
 <br>
 <hr>
 
-<strong><a href="https://github.com/WeslleyIvis/Macro">Prototype Game</a></strong>
+<strong><a href="https://github.com/WeslleyIvis/Macro">Py Macro</a></strong>
 <br>
 <a href="https://github.com/WeslleyIvis/Macro">
 	<img src="https://user-images.githubusercontent.com/79803635/189470410-a6bd7eb3-7458-40c5-a46e-7b31ce6d3c63.png" alt="drawing" align="right" width="25%"/>
@@ -67,7 +67,7 @@
 <br> 
 <hr>
 
-<strong><a href="https://github.com/WeslleyIvis/Delivery">Prototype Game</a></strong>
+<strong><a href="https://github.com/WeslleyIvis/Delivery">Delivery</a></strong>
 <br>
 <a href="https://github.com/WeslleyIvis/Delivery">
 	<img src="https://github.com/WeslleyIvis/Delivery/assets/79803635/884c21ab-3371-44d9-b06f-dc3a93ded881" alt="drawing" align="right" width="25%"/>
