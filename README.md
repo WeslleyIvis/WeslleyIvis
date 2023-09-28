@@ -39,7 +39,7 @@
 </a>
 > <p>This application downloads music and videos from YouTube</p>
 
-> <p>Skills: NodeJS, Jquery, Rest API, Handlebars</p>
+> <p>Skills:JavaScript, NodeJS, Jquery, Rest API, Handlebars</p>
 
 <br> 
 <hr>
