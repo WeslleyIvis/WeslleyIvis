@@ -29,6 +29,8 @@
 
 > <p>Skills: JS Vaniila, CSS, HTML, SPA, Rest API, PokeAPI</p>
 
+<h3 align="center"><a href="https://weslleyivis.github.io/Pokedex/" target="_blank">PLAY</a></h3>
+
 <br>
 <hr>
 
@@ -53,6 +55,8 @@
 
 > <p>Skills: JavaScript, TypeScript, Phaser 3, TiledMap, Json</p>
 
+<br>
+<h3 align="center"><a href="https://weslleyivis.github.io/Load_Phaser/" target="_blank">PLAY</a></h3>
 <br>
 <hr>
 
