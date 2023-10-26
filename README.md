@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3714145024&originToLandingJobPostings=3710601726%2C3697545419"><strong>weslley_reive@hotmail.com</strong></a>
+  <a href="https://www.linkedin.com/in/weslley-cutrim-2b829815a/"><strong>weslley_reive@hotmail.com</strong></a>
 </div>
 
 <br>
