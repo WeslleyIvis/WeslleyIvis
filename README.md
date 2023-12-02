@@ -53,7 +53,7 @@
 </a>
 > <p>This game was made using the "Phaser" engine with the purpose of being a prototype for building a larger game.</p>
 
-> <p>Skills: JavaScript, TypeScript, Phaser 3, TiledMap, Json</p>
+> <p>Skills: TypeScript, Phaser 3, TiledMap, Json</p>
 
 <br>
 <h3 align="center"><a href="https://weslleyivis.github.io/Load_Phaser/" target="_blank">PLAY</a></h3>
@@ -78,7 +78,7 @@
 </a>
 > <p>A delivery service, is a system that allows consumers to order and receive products or services directly to their homes or locations of choice, rather than physically visiting a store, restaurant or service provider. This business model offers customers convenience, saves time, and is often a convenient option for meeting shopping or dining needs.</p>
 
-> <p>Skills: JavaScript, CSS, TypeScript, React, NodeJS, Express, MongoDB (Atlas), Mongoose, Rest API</p>
+> <p>Skills: TypeScript, CSS, React, NodeJS, Express, MongoDB (Atlas), Mongoose, Rest API</p>
 <br>  
 <hr>
 
