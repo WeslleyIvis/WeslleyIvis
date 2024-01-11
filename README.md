@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi There! I'm Weslley Ivis</h1>
-  <h3>Front-end developer</h3>
+  <h3>Softwarer engineer / Front-end developer</h3>
 </div>
 
 <div align="center">
